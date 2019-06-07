@@ -1,0 +1,59 @@
+Waf: Entering directory `/home/user/ns3/ns-allinone-3.29/ns-3.29/build'
+[1503/1966] Compiling src/lte/model/a2-a4-rsrq-handover-algorithm.cc
+[1881/1966] Linking build/lib/libns3.29-lte-debug.so
+[1922/1966] Linking build/lib/libns3.29-netanim-debug.so
+[1923/1966] Linking build/lib/libns3.29-test-debug.so
+[1924/1966] Linking build/bindings/python/ns/antenna.so
+[1925/1966] Linking build/bindings/python/ns/aodv.so
+[1926/1966] Linking build/bindings/python/ns/applications.so
+[1927/1966] Linking build/bindings/python/ns/bridge.so
+[1928/1966] Linking build/bindings/python/ns/buildings.so
+[1929/1966] Linking build/bindings/python/ns/config_store.so
+[1930/1966] Linking build/bindings/python/ns/_core.so
+[1931/1966] Linking build/bindings/python/ns/csma.so
+[1932/1966] Linking build/bindings/python/ns/csma_layout.so
+[1933/1966] Linking build/bindings/python/ns/dsdv.so
+[1934/1966] Linking build/bindings/python/ns/dsr.so
+[1935/1966] Linking build/bindings/python/ns/energy.so
+[1936/1966] Linking build/bindings/python/ns/fd_net_device.so
+[1937/1966] Linking build/bindings/python/ns/flow_monitor.so
+[1938/1966] Linking build/bindings/python/ns/internet.so
+[1939/1966] Linking build/bindings/python/ns/internet_apps.so
+[1940/1966] Linking build/bindings/python/ns/lr_wpan.so
+[1941/1966] Linking build/bindings/python/ns/lte.so
+[1942/1966] Linking build/bindings/python/ns/mesh.so
+[1943/1966] Linking build/bindings/python/ns/mobility.so
+[1944/1966] Linking build/bindings/python/ns/mpi.so
+[1945/1966] Linking build/bindings/python/ns/network.so
+[1946/1966] Linking build/bindings/python/ns/nix_vector_routing.so
+[1947/1966] Linking build/bindings/python/ns/olsr.so
+[1948/1966] Linking build/bindings/python/ns/point_to_point.so
+[1949/1966] Linking build/bindings/python/ns/point_to_point_layout.so
+[1950/1966] Linking build/bindings/python/ns/propagation.so
+[1951/1966] Linking build/bindings/python/ns/sixlowpan.so
+[1952/1966] Linking build/bindings/python/ns/spectrum.so
+[1953/1966] Linking build/bindings/python/ns/stats.so
+[1954/1966] Linking build/bindings/python/ns/tap_bridge.so
+[1955/1966] Linking build/bindings/python/ns/topology_read.so
+[1956/1966] Linking build/bindings/python/ns/traffic_control.so
+[1957/1966] Linking build/bindings/python/ns/uan.so
+[1958/1966] Linking build/bindings/python/ns/virtual_net_device.so
+[1959/1966] Linking build/bindings/python/ns/wave.so
+[1960/1966] Linking build/bindings/python/ns/wifi.so
+[1961/1966] Linking build/bindings/python/ns/wimax.so
+[1962/1966] Linking build/scratch/scratch-simulator
+[1963/1966] Linking build/scratch/lastest
+[1964/1966] Linking build/scratch/subdir/subdir
+[1965/1966] Linking build/utils/ns3.29-test-runner-debug
+[1966/1966] Linking build/utils/ns3.29-print-introspected-doxygen-debug
+Waf: Leaving directory `/home/user/ns3/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (38.823s)
+1 1 10 1  2.64
+2 1 8 15  3.04
+3 1 8 5  3.44
+4 2 12 1  4.2
+5 2 11 27  5.24
+6 1 11 18  6.04
+7 1 17 10  8.2
+8 1 13 27  9

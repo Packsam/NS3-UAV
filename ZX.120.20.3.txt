@@ -1,0 +1,31 @@
+Waf: Entering directory `/home/user/ns3/ns-allinone-3.29/ns-3.29/build'
+[1914/1966] Compiling scratch/lastest.cc
+[1926/1966] Linking build/scratch/lastest
+Waf: Leaving directory `/home/user/ns3/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (13.680s)
+1 3 11 0.440001
+2 2 13 0.800001
+3 71 16 1.24
+4 3 13 1.8
+5 74 16 1.8
+6 1 14 2
+7 28 17 2.24
+8 77 16 2.84
+9 4 11 3.8
+10 53 17 4
+11 22 11 5
+12 6 12 5.6
+13 7 9 5.84
+14 76 15 6.04
+15 8 9 6.24
+16 41 15 6.44
+17 79 15 6.8
+18 9 10 7.4
+19 1 16 7.6
+20 33 16 8.4
+21 10 9 8.44
+22 82 17 8.64
+23 2 15 8.84
+24 43 17 9.8
+25 2 15 9.84
